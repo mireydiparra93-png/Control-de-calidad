@@ -44,7 +44,7 @@ Se implementa el SCCT, una solución basada en la nube (Google Workspace) para l
 ### 🤝 Guía de Contribución (Criterio 5)
 El desarrollo se realizó siguiendo el flujo de trabajo Gitflow simplificado:
 1.  **Ramas:** Desarrollado con ramas `main` (Producción) y `develop` (Desarrollo).
-2.  **Commits y Etiquetas:** Se usaron etiquetas como `feat:` (feature) y `docs:` (documentation) en los mensajes de *commit*.
+2.  **Commits y Etiquetas:** Se usaron etiquetas como `feat:` (feature) y `docs:` (documentation) en los mensajes de *commit* para categorizar el trabajo.
 
 ---
 
